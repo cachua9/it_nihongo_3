@@ -1,2 +1,2 @@
 puts "hello world"
-pust "this is bugFix"
+puts "this is bugFix"
